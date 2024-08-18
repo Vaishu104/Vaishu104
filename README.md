@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vaishu104
-- 👀 I’m interested in Artificial inteligence
-- 🌱 I’m currently learning Aiml
+- 👋 Hi, I’m Vaishnavi
+- 👀 I’m interested in Machine learning
+- 🌱 I’m currently learning AIML
 - 📫 You can contact me by my gmail id vaishnavi45778@gmail.com
 
 <!---
