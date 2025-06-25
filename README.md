@@ -3,11 +3,13 @@
 Hi there! I'm **Vaishnavi**, a final-year Agricultural Engineering Graduate with a strong passion for integrating **technology and sustainable solutions** 
 
 Currently diving deep into
-- 🤖 **Machine Learning** for real-world problems (Weather classification)
 - 📊 **Data Analytics**
+- 🤖 **Machine Learning** 
+
 ---
 
 ## 🧠 Projects & Interests
+- Power Bi Dashboard 
 - 🌦️ Weather Classification using ML
 - car sales prediction
 - titanic survival prediction
@@ -23,4 +25,4 @@ Currently diving deep into
 
 ---
 
-> *"Turning smart ideas into sustainable reality."* 🌿
+> *"Turning Large Data into Cool Insights ."* 🌿
